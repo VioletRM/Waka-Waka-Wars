@@ -1,0 +1,26 @@
+# === Compilación ===
+bin/
+*.o
+*.exe
+*.out
+*.obj
+
+# === Archivos temporales del sistema ===
+.DS_Store
+Thumbs.db
+
+# === Archivos de backup o swap ===
+*~
+*.swp
+*.bak
+
+# === Archivos de log ===
+*.log
+
+# === Archivos temporales de editores ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === Archivos de demo generados manualmente ===
+docs/demo.mp4
